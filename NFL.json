@@ -1,0 +1,506 @@
+[
+    {
+        "id": "1ab6b0a3-f037-11f0-9442-5911216651e2",
+        "homeTeam": {
+            "id": "10401400-b89b-96e5-55d1-caa7e18de3d8",
+            "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/DEN",
+            "fullName": "Denver Broncos"
+        },
+        "awayTeam": {
+            "id": "10400610-c40e-a673-1743-2ce2a5d5d731",
+            "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/BUF",
+            "fullName": "Buffalo Bills"
+        },
+        "category": null,
+        "date": "2026-01-17",
+        "time": "2026-01-17T21:30:00Z",
+        "broadcastInfo": {
+            "homeNetworkChannels": [
+                "CBS",
+                "PARAMOUNT+"
+            ],
+            "awayNetworkChannels": [
+                "CBS",
+                "PARAMOUNT+"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+                {
+                    "hostNetwork": "CBS",
+                    "networks": [
+                        "CBS"
+                    ]
+                }
+            ],
+            "territory": "NATIONAL"
+        },
+        "gameType": "AFC_DIV",
+        "international": false,
+        "neutralSite": false,
+        "venue": {
+            "id": "00085786-61c2-c519-196f-576acb0dcd5f",
+            "name": "Empower Field at Mile High",
+            "city": "Denver",
+            "country": "USA"
+        },
+        "season": 2025,
+        "seasonType": "POST",
+        "status": "SCHEDULED",
+        "week": 2,
+        "weekType": "DIV",
+        "externalIds": [
+            {
+                "source": "elias",
+                "id": "2026011700"
+            },
+            {
+                "source": "gsis",
+                "id": "60170"
+            },
+            {
+                "source": "slug",
+                "id": "bills-at-broncos-2025-post-2"
+            }
+        ],
+        "ticketUrl": "https://www.ticketmaster.com/event/1E006275A11B2EAE?wt.mc_id=NFL_LEAGUE_SCHED_PG_LINKS_DEN_PLAYOFFS_GM2&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_LINKS_DEN_PLAYOFFS_GM2&campaign=den-tg-ie-sp-2064020",
+        "ticketVendors": [
+            {
+                "vendorName": "lodgingUrl",
+                "ticketUrl": "https://www.marriott.com/search/findHotels.mi?pageType=advanced&showMore=true&destinationAddress.location=Empower+Field+at+Mile+High&cid=PMO_GLB0003VDI_GLE00095QE_GLF000HKET&deviceType=desktop-web&view=list#/1/"
+            },
+            {
+                "vendorName": "oneBoxUrl",
+                "ticketUrl": "https://www.ticketmaster.com/event/1E006275A11B2EAE?wt.mc_id=NFL_LEAGUE_GOOGLE_ONEBOX_DEN_PLAYOFFS_GM2&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=GOOGLE_ONEBOX_DEN_PLAYOFFS_GM2&campaign=den-tg-na-vg-2064034"
+            },
+            {
+                "vendorName": "ticketmaster",
+                "ticketUrl": "https://www.ticketmaster.com/event/1E006275A11B2EAE?wt.mc_id=NFL_LEAGUE_SCHED_PG_LINKS_DEN_PLAYOFFS_GM2&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_LINKS_DEN_PLAYOFFS_GM2&campaign=den-tg-ie-sp-2064020"
+            }
+        ],
+        "extensions": [],
+        "version": 3,
+        "summary": null,
+        "driveChart": null,
+        "replays": [],
+        "taggedVideos": null,
+        "awayTeamStandings": {
+            "team": {
+                "id": "10400610-c40e-a673-1743-2ce2a5d5d731",
+                "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/BUF",
+                "fullName": "Buffalo Bills"
+            },
+            "clinched": {
+                "bye": false,
+                "division": false,
+                "eliminated": false,
+                "homeField": false,
+                "playoff": true,
+                "wildCard": true
+            },
+            "closeGames": {
+                "wins": 5,
+                "losses": 3,
+                "ties": 0
+            },
+            "conference": {
+                "wins": 9,
+                "winPct": 0.75,
+                "losses": 3,
+                "ties": 0,
+                "rank": 6,
+                "points": {
+                    "for": 340,
+                    "against": 268
+                }
+            },
+            "division": {
+                "wins": 4,
+                "winPct": 0.667,
+                "losses": 2,
+                "ties": 0,
+                "rank": 2,
+                "points": {
+                    "for": 164,
+                    "against": 123
+                }
+            },
+            "home": {
+                "wins": 7,
+                "winPct": 0.778,
+                "losses": 2,
+                "ties": 0,
+                "points": {
+                    "for": 281,
+                    "against": 211
+                }
+            },
+            "last5": {
+                "wins": 4,
+                "winPct": 0.8,
+                "losses": 1,
+                "ties": 0,
+                "points": {
+                    "for": 144,
+                    "against": 106
+                }
+            },
+            "overall": {
+                "games": 17,
+                "wins": 12,
+                "winPct": 0.706,
+                "losses": 5,
+                "ties": 0,
+                "points": {
+                    "for": 481,
+                    "against": 365
+                },
+                "streak": {
+                    "type": "STREAK_TYPE_WINNING",
+                    "length": 1
+                }
+            },
+            "road": {
+                "wins": 5,
+                "winPct": 0.625,
+                "losses": 3,
+                "ties": 0,
+                "points": {
+                    "for": 200,
+                    "against": 154
+                }
+            }
+        },
+        "homeTeamStandings": {
+            "team": {
+                "id": "10401400-b89b-96e5-55d1-caa7e18de3d8",
+                "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/DEN",
+                "fullName": "Denver Broncos"
+            },
+            "clinched": {
+                "bye": true,
+                "division": true,
+                "eliminated": false,
+                "homeField": true,
+                "playoff": true,
+                "wildCard": false
+            },
+            "closeGames": {
+                "wins": 11,
+                "losses": 2,
+                "ties": 0
+            },
+            "conference": {
+                "wins": 9,
+                "winPct": 0.75,
+                "losses": 3,
+                "ties": 0,
+                "rank": 1,
+                "points": {
+                    "for": 242,
+                    "against": 186
+                }
+            },
+            "division": {
+                "wins": 5,
+                "winPct": 0.833,
+                "losses": 1,
+                "ties": 0,
+                "rank": 1,
+                "points": {
+                    "for": 115,
+                    "against": 82
+                }
+            },
+            "home": {
+                "wins": 8,
+                "winPct": 0.889,
+                "losses": 1,
+                "ties": 0,
+                "points": {
+                    "for": 230,
+                    "against": 160
+                }
+            },
+            "last5": {
+                "wins": 4,
+                "winPct": 0.8,
+                "losses": 1,
+                "ties": 0,
+                "points": {
+                    "for": 117,
+                    "against": 93
+                }
+            },
+            "overall": {
+                "games": 17,
+                "wins": 14,
+                "winPct": 0.824,
+                "losses": 3,
+                "ties": 0,
+                "points": {
+                    "for": 401,
+                    "against": 311
+                },
+                "streak": {
+                    "type": "STREAK_TYPE_WINNING",
+                    "length": 2
+                }
+            },
+            "road": {
+                "wins": 6,
+                "winPct": 0.75,
+                "losses": 2,
+                "ties": 0,
+                "points": {
+                    "for": 171,
+                    "against": 151
+                }
+            }
+        }
+    },
+    {
+        "id": "5b3fe531-f037-11f0-9442-5911216651e2",
+        "homeTeam": {
+            "id": "10404600-adcd-28ac-5826-b4d95ec2a228",
+            "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/SEA",
+            "fullName": "Seattle Seahawks"
+        },
+        "awayTeam": {
+            "id": "10404500-e7cb-7fce-3f10-4eeb269bd179",
+            "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/SF",
+            "fullName": "San Francisco 49ers"
+        },
+        "category": null,
+        "date": "2026-01-17",
+        "time": "2026-01-18T01:00:00Z",
+        "broadcastInfo": {
+            "homeNetworkChannels": [
+                "FOX",
+                "FOX DEPORTES"
+            ],
+            "awayNetworkChannels": [
+                "FOX",
+                "FOX DEPORTES"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+                {
+                    "hostNetwork": "FOX",
+                    "networks": [
+                        "FOX"
+                    ]
+                },
+                {
+                    "hostNetwork": "FOXDEPORTES",
+                    "networks": [
+                        "FOXDEPORTES"
+                    ]
+                }
+            ],
+            "territory": "NATIONAL"
+        },
+        "gameType": "NFC_DIV",
+        "international": false,
+        "neutralSite": false,
+        "venue": {
+            "id": "00085315-d5b8-18a5-6c08-f91cd9144cb5",
+            "name": "Lumen Field",
+            "city": "Seattle",
+            "country": "USA"
+        },
+        "season": 2025,
+        "seasonType": "POST",
+        "status": "SCHEDULED",
+        "week": 2,
+        "weekType": "DIV",
+        "externalIds": [
+            {
+                "source": "elias",
+                "id": "2026011701"
+            },
+            {
+                "source": "gsis",
+                "id": "60171"
+            },
+            {
+                "source": "slug",
+                "id": "49ers-at-seahawks-2025-post-2"
+            }
+        ],
+        "ticketUrl": "https://www.ticketmaster.com/event/0F00635E92C0A7E1?wt.mc_id=NFL_LEAGUE_SCHED_PG_LINKS_SEA_PLAYOFFS_GM2&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_LINKS_SEA_PLAYOFFS_GM2&campaign=sea-tg-ie-sp-2064027",
+        "ticketVendors": [
+            {
+                "vendorName": "lodgingUrl",
+                "ticketUrl": "https://www.marriott.com/search/findHotels.mi?pageType=advanced&showMore=true&destinationAddress.location=Lumen+Field&cid=PMO_GLB0003VDI_GLE00095QV_GLF000HKFR&deviceType=desktop-web&view=list#/1/"
+            },
+            {
+                "vendorName": "oneBoxUrl",
+                "ticketUrl": "https://www.ticketmaster.com/event/0F00635E92C0A7E1?wt.mc_id=NFL_LEAGUE_GOOGLE_ONEBOX_SEA_PLAYOFFS_GM2&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=GOOGLE_ONEBOX_SEA_PLAYOFFS_GM2&campaign=sea-tg-na-vg-2064041"
+            },
+            {
+                "vendorName": "ticketmaster",
+                "ticketUrl": "https://www.ticketmaster.com/event/0F00635E92C0A7E1?wt.mc_id=NFL_LEAGUE_SCHED_PG_LINKS_SEA_PLAYOFFS_GM2&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_LINKS_SEA_PLAYOFFS_GM2&campaign=sea-tg-ie-sp-2064027"
+            }
+        ],
+        "extensions": [],
+        "version": 4,
+        "summary": null,
+        "driveChart": null,
+        "replays": [],
+        "taggedVideos": null,
+        "awayTeamStandings": {
+            "team": {
+                "id": "10404500-e7cb-7fce-3f10-4eeb269bd179",
+                "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/SF",
+                "fullName": "San Francisco 49ers"
+            },
+            "clinched": {
+                "bye": false,
+                "division": false,
+                "eliminated": false,
+                "homeField": false,
+                "playoff": true,
+                "wildCard": true
+            },
+            "closeGames": {
+                "wins": 5,
+                "losses": 1,
+                "ties": 0
+            },
+            "conference": {
+                "wins": 9,
+                "winPct": 0.75,
+                "losses": 3,
+                "ties": 0,
+                "rank": 6,
+                "points": {
+                    "for": 290,
+                    "against": 260
+                }
+            },
+            "division": {
+                "wins": 4,
+                "winPct": 0.667,
+                "losses": 2,
+                "ties": 0,
+                "rank": 3,
+                "points": {
+                    "for": 129,
+                    "against": 128
+                }
+            },
+            "home": {
+                "wins": 5,
+                "winPct": 0.625,
+                "losses": 3,
+                "ties": 0,
+                "points": {
+                    "for": 185,
+                    "against": 177
+                }
+            },
+            "last5": {
+                "wins": 4,
+                "winPct": 0.8,
+                "losses": 1,
+                "ties": 0,
+                "points": {
+                    "for": 156,
+                    "against": 110
+                }
+            },
+            "overall": {
+                "games": 17,
+                "wins": 12,
+                "winPct": 0.706,
+                "losses": 5,
+                "ties": 0,
+                "points": {
+                    "for": 437,
+                    "against": 371
+                },
+                "streak": {
+                    "type": "STREAK_TYPE_LOSING",
+                    "length": 1
+                }
+            },
+            "road": {
+                "wins": 7,
+                "winPct": 0.778,
+                "losses": 2,
+                "ties": 0,
+                "points": {
+                    "for": 252,
+                    "against": 194
+                }
+            }
+        },
+        "homeTeamStandings": {
+            "team": {
+                "id": "10404600-adcd-28ac-5826-b4d95ec2a228",
+                "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/SEA",
+                "fullName": "Seattle Seahawks"
+            },
+            "clinched": {
+                "bye": true,
+                "division": true,
+                "eliminated": false,
+                "homeField": true,
+                "playoff": true,
+                "wildCard": false
+            },
+            "closeGames": {
+                "wins": 6,
+                "losses": 3,
+                "ties": 0
+            },
+            "conference": {
+                "wins": 9,
+                "winPct": 0.75,
+                "losses": 3,
+                "ties": 0,
+                "rank": 1,
+                "points": {
+                    "for": 357,
+                    "against": 204
+                }
+            },
+            "division": {
+                "wins": 4,
+                "winPct": 0.667,
+                "losses": 2,
+                "ties": 0,
+                "rank": 1,
+                "points": {
+                    "for": 150,
+                    "against": 120
+                }
+            },
+            "home": {
+                "wins": 6,
+                "winPct": 0.75,
+                "losses": 2,
+                "ties": 0,
+                "points": {
+                    "for": 245,
+                    "against": 162
+                }
+            },
+            "last5": {
+                "wins": 5,
+                "winPct": 1.0,
+                "losses": 0,
+                "ties": 0,
+                "points": {
+                    "for": 133,
+                    "against": 75
+                }
+            },
+            "overall": {
+                "games": 17,
+                "wins": 14,
+                "winPct": 0.824,
+                "losses": 3,
+                "ties": 0,
+                "points": {
+      
